@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MantasTek
 - 👀 I’m interested in everything.
-- 🌱 I’m currently learning C#.
+- 🌱 I’m currently learning Fronted 
 - 📫 How to reach me mantas10@gmail.com
 
 <!---
