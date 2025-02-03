@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MantasTek
 - 👀 I’m interested in everything.
 - 🌱 I’m currently learning Fronted 
-- 📫 How to reach me mantas10@gmail.com
+- 📫 How to reach me PetrovasMantas@protonmail.com
 
 <!---
 MantasTek/MantasTek is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
