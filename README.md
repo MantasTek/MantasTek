@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MantasTek
 - 👀 I’m interested in everything.
-- 🌱 I’m currently learning Fronted 
+- 🌱 Student .NET
 - 📫 How to reach me PetrovasMantas@protonmail.com
 
 <!---
