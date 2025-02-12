@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @MantasTek
 - 👀 I’m interested in everything.
-- 🌱 Student .NET
 - 📫 How to reach me PetrovasMantas@protonmail.com
 
 <!---
