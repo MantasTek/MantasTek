@@ -5,10 +5,10 @@ Hey there! I'm an aspiring software developer passionate about C# development, g
 
 💻 Tech & Skills I’ve Been Learning:
 
-C# & .NET Development – Windows Forms applications, ADO.NET, SQL integration.
-Game Development – Object-oriented programming, structured gameplay logic, and UI design.
-SQL & Databases – Microsoft SQL Server, ADO.NET, and data management.
-Front-End Development – Learning HTML, CSS, and JavaScript to expand my skillset.
+-C# & .NET Development – Windows Forms applications,ASP.NET, ADO.NET, SQL integration.
+-Game Development – Object-oriented programming, structured gameplay logic, and UI design.
+-SQL & Databases – Microsoft SQL Server, ADO.NET, and data management.
+-Front-End Development – Learning HTML, CSS, and JavaScript to expand my skillset.
 
 🚀 What’s Next?
 I'm always improving my skills and taking on new challenges. Whether it’s refining my coding projects or diving into new technologies, I’m always pushing forward. Feel free to check out my repositories and connect with me!
