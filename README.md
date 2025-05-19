@@ -47,7 +47,7 @@ Contacts manager featuring paginated lists, search/filter, and data persistence 
 
 ## 🤝 Let’s Connect
 - 📫 [LinkedIn](https://www.linkedin.com/in/mantas-petrovas-4260a4a7/)  
-- ✉️ mantas@example.com  
+- ✉️ mantasspetrovas@gmail.com  
 
 > “A result‑oriented developer who goes the extra mile to meet employer and customer expectations.”
 
